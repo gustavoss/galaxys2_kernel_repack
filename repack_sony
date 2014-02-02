@@ -1,0 +1,1 @@
+./mkbootimg --base 0x00200000 --kernel ./boot/zImage --ramdisk ./boot/ramdisk.cpio.gz -o boot.img
